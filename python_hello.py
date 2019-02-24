@@ -1,2 +1,2 @@
 print("Hello Python")
-print("Test")
+print("Test_new")
